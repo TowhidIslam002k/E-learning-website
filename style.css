@@ -32,6 +32,7 @@ small{
     background-color: #21B573;
     border: none;
     border-radius: 20px;
+    padding: 0px 8px;
 }
 h2{
     font-size: 24px;
@@ -58,7 +59,7 @@ h2{
     font-size: 48px;
     font-weight: bold;
     color: #21B573;
-    margin-left: 37%;
+    text-align: center;
     flex-wrap: wrap;
 }
 .s1{
@@ -71,6 +72,7 @@ h2{
 .s3{
     width: 600px;
     height: 200px;
+    
 }
 .s4{
     border: none;
